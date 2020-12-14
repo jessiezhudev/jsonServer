@@ -1,0 +1,28 @@
+{
+    "groups": [
+      { "id": 1, "name": "Group 1" },
+      { "id": 2, "name": "Group 2" },
+      { "id": 3, "name": "Group 3" }
+    ],
+    "members": [
+    { "id": 1, "name": "jessie"
+    },
+    {
+      "id": 2, "name": "jessie2"    
+    }
+    ],
+    "events": [
+    { "id": 1, "name": "jessie"
+    },
+    {
+      "id": 2, "name": "jessie2"    
+    }
+    ],
+    "posts": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
