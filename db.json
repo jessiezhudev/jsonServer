@@ -4,7 +4,7 @@
       { "id": 2, "name": "Group 2" },
       { "id": 3, "name": "Group 3" }
     ],
-    "groupMembers:[
+    "groupMembers":[
     { "id": 1, "groupId":1, "userId":1, "name": "jessie"
     },
     {
@@ -16,7 +16,7 @@
       "id": 4, "groupId":2, "userId":2, "name": "jessie2"    
     }
     ],
-    "users": [{"id":1, "name": "jessie"}, {"id":2, "name": "jessie2"}]
+    "users": [{"id":1, "name": "jessie"}, {"id":2, "name": "jessie2"}],
     "events": [
     { "id": 1, "name": "jessie"
     },
