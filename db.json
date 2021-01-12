@@ -1,16 +1,49 @@
 {
-    "groups":[
-       {
-          "id":1,
-          "name":"Group 1"
-       },
-       {
-          "id":2,
-          "name":"Group 2"
-       },
-       {
-          "id":3,
-          "name":"Group 3"
-       }
-    ]
- }
+   "groups":[
+      {
+         "id":1,
+         "name":"Group 1",
+         "members":[
+            "JESSIE1"
+         ],
+         "posts":[
+            
+         ],
+         "events":[
+            
+         ],
+         "created":"today"
+      },
+      {
+         "id":2,
+         "name":"Group 2",
+         "members":[
+            "JESSIE1",
+            "JESSIE2"
+         ],
+         "posts":[
+            
+         ],
+         "events":[
+            
+         ],
+         "created":"today"
+      },
+      {
+         "id":3,
+         "name":"Group 3",
+         "members":[
+            "JESSIE1",
+            "JESSIE2",
+            "JESSIE3"
+         ],
+         "posts":[
+            
+         ],
+         "events":[
+            
+         ],
+         "created":"today"
+      }
+   ]
+}
